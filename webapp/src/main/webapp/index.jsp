@@ -234,7 +234,7 @@
       <li><span class="dot"></span><span>Deploy to production</span></li>
     </ul>
 
-    <footer>Thank you, happy learning.</footer>
+    <footer>Designed by Blaise Chidera.</footer>
   </aside>
 
   <main class="panel">
