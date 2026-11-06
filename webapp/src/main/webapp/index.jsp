@@ -234,7 +234,7 @@
       <li><span class="dot"></span><span>Deploy to production</span></li>
     </ul>
 
-    <footer>Designed by Blaise Chidera for Training Purposes.</footer>
+    <footer>For Training Purposes Only.</footer>
   </aside>
 
   <main class="panel">
