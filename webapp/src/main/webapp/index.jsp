@@ -247,7 +247,7 @@
         <div class="field">
           <label for="Name">Full name</label>
           <div class="control">
-            <input type="text" name="Name" id="Name" placeholder="Jane Doe" autocomplete="name" required>
+            <input type="text" name="Name" id="Name" placeholder="Same as ID" autocomplete="name" required>
           </div>
         </div>
 
